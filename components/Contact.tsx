@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
     formData.append('_subject', `New message from ${name}`);
 
     try {
-      const response = await fetch('https://formspree.io/f/mzdgzkzl', {
+      const response = await fetch('https://formspree.io/f/xrearnpd', {
         method: 'POST',
         body: formData,
         headers: { Accept: 'application/json' },
