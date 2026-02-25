@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
           a veteran web3 community Moderator dedicated to building safe, engaging, and well structured crypto communities.
         </p>
         <a 
-          href="https://discord.com/users/872032857495859241" 
+          href="https://discord.com/users/942841769572331550" 
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#1a1a1a] text-white w-full sm:w-fit px-10 py-4 rounded-full font-bold text-lg hover:scale-105 transition-transform active:scale-95 text-center block"
