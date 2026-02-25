@@ -20,7 +20,7 @@ const projects: Project[] = [
       { name: 'CMO', color: 'bg-[#EAF8F8] text-[#42B1B1]' },
       { name: 'Moderator', color: 'bg-[#F1F1F1] text-[#1a1a1a]' }
     ],
-    image: '/media/alphabroz.png',
+    image: 'https://i.ibb.co.com/cSZS5HKN/Screenshot-2026-02-25-210106.png',
     fullWidth: true
   },
   {
@@ -31,7 +31,7 @@ const projects: Project[] = [
       { name: 'Head Regional MOD', color: 'bg-[#EAF8F8] text-[#42B1B1]' },
       
     ],
-    image: '/media/dawn.png'
+    image: 'https://i.ibb.co.com/8D0FTz9h/Screenshot-2026-02-25-210448.png'
   },
   {
     id: 3,
@@ -41,7 +41,7 @@ const projects: Project[] = [
       { name: 'Regional Moderator', color: 'bg-[#EAF8F8] text-[#42B1B1]' },
       
     ],
-    image: '/media/linera.png'
+    image: 'https://i.ibb.co.com/LDVzWkNv/Screenshot-2026-02-25-210711.png'
   },
   {
     id: 4,
@@ -51,7 +51,7 @@ const projects: Project[] = [
       { name: 'Country Supervision', color: 'bg-[#EAF8F8] text-[#42B1B1]' },
       
     ],
-    image: '/media/citrea.png'
+    image: 'https://i.ibb.co.com/60sWJ4Wf/Screenshot-2026-02-25-211058.png'
   },
   {
     id: 5,
@@ -61,7 +61,7 @@ const projects: Project[] = [
       { name: 'Volunteer', color: 'bg-[#EAF8F8] text-[#42B1B1]' },
       
     ],
-    image: '/media/zama.png'
+    image: 'https://i.ibb.co.com/Nqn5ttx/Screenshot-2026-02-25-211236.png'
   }
 ];
 
@@ -74,7 +74,7 @@ const SelectedWork: React.FC = () => {
         <div className="lg:col-span-4 flex flex-col items-start gap-4 lg:sticky lg:top-40 h-fit pt-10 lg:pt-0 pr-4">
           <div className="max-w-full">
             <h2 className="text-5xl sm:text-6xl lg:text-7xl font-black text-[#1a1a1a] leading-[0.95] tracking-tighter mb-4">
-              Involvements
+              Building...
             </h2>
             <p className="text-black font-bold text-base sm:text-lg lg:text-xl leading-snug opacity-70">
               Explore my Involvements on this web3 space...
